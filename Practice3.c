@@ -3,7 +3,7 @@
 
 int main(){
 
-    float PI = 3.1415926535;
+    double PI = 3.1415926535;
 
-    printf("%.4f", PI);
+    printf("%.4lf", PI);
 }
